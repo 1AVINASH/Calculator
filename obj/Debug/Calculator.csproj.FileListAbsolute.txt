@@ -1,0 +1,8 @@
+C:\Users\Avinash\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Avinash\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Avinash\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Avinash\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Avinash\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Avinash\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Avinash\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Avinash\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
